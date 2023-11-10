@@ -1,5 +1,5 @@
 - 👋 Hi, I’m #Mooventhan
-- 👀 I’m interested in #front-end Developer
+- 👀 I’m interested in #web-development
 - 🌱 I’m currently learning #RubyOnRails
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kmooventhan98@gmail.com
