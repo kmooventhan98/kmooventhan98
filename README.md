@@ -21,3 +21,4 @@
 #### Projects hosted
 
 - [Portfolio](https://mooventhan-portfolio.web.app/)
+- [Chrome extension](https://kmooventhan98.github.io/stickey-chrome-ext/)
